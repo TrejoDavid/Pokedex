@@ -11,3 +11,4 @@ April 26, 2016
 April 27, 2016
 
 - Created a mockup of the Pokedex using CSS and HTML.
+![alt tag](http://www.davidtrejo.com/Pokedex.png)
