@@ -1,0 +1,88 @@
+.pokedex {
+  background: red;
+  width: 250px;
+  height: 300px;
+  display: relative;
+}
+
+.blue-circle {
+  position: absolute;
+  background: blue;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 5px solid gray;
+  top: 20px;
+  left: 15px;
+}
+
+.pink-circle {
+  position: absolute;
+  background: pink;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  left: 100px;
+  top: 20px
+}
+
+.yellow-circle {
+  position: absolute;
+  background: yellow;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  left: 125px;
+  top: 20px
+}
+
+.green-circle {
+  position: absolute;
+  background: green;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  left: 150px;
+  top: 20px
+}
+
+
+.angled-black-line {
+  position: absolute;
+  top: 90px;
+  left: 80px;
+  width: 60px;
+  background: black;
+  -ms-transform: rotate(-40deg);
+  -webkit-transform: rotate(-40deg);
+  transform: rotate(-40deg);
+  border: 2px solid black;
+}
+
+.short-black-line {
+  position: absolute;
+  border:2px solid black;
+  width: 77px;
+  top:110px;
+}
+
+.long-black-line {
+  position: absolute;
+  border:2px solid black;
+  width: 119px;
+  top:70px;
+  left: 135px;
+}
+
+
+.arrow-right {
+  position:absolute;
+  top: 220px;
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	border-left: 10px solid yellow;
+}
+
+
